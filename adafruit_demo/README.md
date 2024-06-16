@@ -1,1 +1,1 @@
-[Arduino Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/arduino-code) - Adafruit demo with breadboard layout and code example
+[Arduino Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/arduino-code) - Adafruit demo with breadboard layout, the code example is the same thing as [arduino_motor_demo](https://github.com/Kokuko3/ScoutBot/blob/main/adafruit_demo/arduino_motor_demo/arduino_motor_demo.ino)
