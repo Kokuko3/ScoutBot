@@ -1,1 +1,1 @@
-[](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/arduino-code)
+[Arduino Lesson 13. DC Motors](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors/arduino-code) - Adafruit demo with breadboard layout and code example
