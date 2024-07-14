@@ -1,0 +1,12 @@
+Setup PiCamera on rpi
+
+Setup bt connection on rpi
+
+Test motor control with xbox controller first
+
+Bluetooth interaction with adafruit library?
+
+If it works for xbox controller, just create android app that mirrors inputs to rpi
+
+peer to peer streaming for video (On android possible? Maybe configure to test on PC first)
+
